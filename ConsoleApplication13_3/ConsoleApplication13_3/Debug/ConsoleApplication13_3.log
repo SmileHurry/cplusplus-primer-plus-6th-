@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\nest\documents\visual studio 2013\projects\consoleapplication13_3\consoleapplication13_3\main.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ConsoleApplication13_3.vcxproj -> c:\users\nest\documents\visual studio 2013\Projects\ConsoleApplication13_3\Debug\ConsoleApplication13_3.exe
